@@ -33,4 +33,4 @@ Using GitHub to share projects, organize my work, and track my progress as a dev
 ![Terminal](https://img.shields.io/badge/Terminal-000000?style=flat&logo=gnubash&logoColor=white)
 
 **Reach Me**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yohai%20Dajurno-0A66C2?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yohai%20Dajurno-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yohaidajurno/)
