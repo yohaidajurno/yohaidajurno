@@ -2,13 +2,25 @@
 
 I build software, read real codebases, and contribute to projects I care about.
 
-**Contributions**
+---
 
-| Project | Contribution | Status | Link |
-|---|---|---|---|
-| `bun` | Fix route matching behavior | In Progress | Coming soon |
-| `project` | Short description | Merged | #123 |
-| `project` | Short description | Open | #456 |
+### Contributions
 
-**Reach Me**  
-[![LinkedIn](...)](...)
+```txt
+bun
+├─ area: runtime / routing
+├─ work: route matching behavior
+├─ status: in progress
+└─ link: coming soon
+
+project-name
+├─ area: backend
+├─ work: short description
+├─ status: merged
+└─ link: #123
+
+project-name
+├─ area: tooling
+├─ work: short description
+├─ status: open
+└─ link: #456
