@@ -1,20 +1,14 @@
 ### Hi, I'm Yohai 👋
 
-I build software, read real codebases, and contribute to open source.
+I build software, read real codebases, and contribute to projects I care about.
 
-Currently exploring developer tools, runtimes, backend systems, and AI agents.
+**Contributions**
 
-**Open Source**
+| Project | Contribution | Status | Link |
+|---|---|---|---|
+| `bun` | Fix route matching behavior | In Progress | Coming soon |
+| `project` | Short description | Merged | #123 |
+| `project` | Short description | Open | #456 |
 
-![Bun](https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white)
-
-**Focus**
-
-- Open source
-- Systems and backend development
-- Developer tools
-- AI agents
-
-**Reach Me**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yohai%20Dajurno-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yohaidajurno/)
+**Reach Me**  
+[![LinkedIn](...)](...)
