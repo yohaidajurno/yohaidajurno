@@ -6,7 +6,7 @@ I build software, read real codebases, and contribute to projects I care about.
 
 ## Open Source Contributions
 
-### ![Bun](https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white) [Bun](https://github.com/oven-sh/bun)
+### ![Bun](https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white) 
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Runtime](https://img.shields.io/badge/Runtime-333333?style=flat)
